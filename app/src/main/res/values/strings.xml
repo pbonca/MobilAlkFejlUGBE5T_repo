@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobilAlkFejlUGBE5T</string>
+    <string name="facebook_app_id">571584596694899</string>
+    <string name="fb_login_protocol_scheme">fb571584596694899</string>
+    <string name="welcome">Welcome to my app! Please log in!</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="backButton">Back</string>
+    <string name="back">Back to log out</string>
+</resources>
